@@ -14,7 +14,7 @@
 - Question 10: JavaScript Program for Recursive Binary Search
 - Question 11: JavaScript Program for shell sort.
 - Question 12: Javascript program for heap sort
-- More Questions to be added soon!
+- Question 13 : Javascript program for  try-catch block to catch and handle a 'TypeError'.
 
 ### Author : Diwakar Kumar
 
